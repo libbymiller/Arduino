@@ -1,0 +1,3 @@
+This is an ethernet-based remote control - see http://www.flickr.com/photos/nicecupoftea/6785289453/
+It talks to the server.rb included. If there's an N-Screen player attached, it can play stuff on the screen.
+
